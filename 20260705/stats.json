@@ -14,5 +14,11 @@
   "docs": 0,
   "queued": 1
  },
- "costUsd": 0
+ "costUsd": 0,
+ "recheck": {
+  "candidates": 283,
+  "fresh": 0,
+  "outOfWindow": 283,
+  "bodyFailed": 0
+ }
 }
