@@ -1,24 +1,16 @@
 {
  "date": "2026-07-05",
  "window": {
-  "from": "2026-07-03",
-  "to": "2026-07-05"
+  "from": "2026-07-04 07:00 KST",
+  "to": "2026-07-05 07:00 KST"
  },
  "candidates": 284,
- "fresh": 1,
+ "fresh": 0,
  "dupSkipped": 0,
- "outOfWindow": 283,
- "bodyFailed": 1,
+ "outOfWindow": 284,
+ "bodyFailed": 0,
  "extract": {
-  "mode": "claude-file",
-  "docs": 0,
-  "queued": 1
+  "mode": "claude-file"
  },
- "costUsd": 0,
- "recheck": {
-  "candidates": 283,
-  "fresh": 0,
-  "outOfWindow": 283,
-  "bodyFailed": 0
- }
+ "costUsd": 0
 }
