@@ -4,13 +4,15 @@
   "from": "2026-07-04 07:00 KST",
   "to": "2026-07-05 07:00 KST"
  },
- "candidates": 284,
- "fresh": 0,
+ "candidates": 286,
+ "fresh": 3,
  "dupSkipped": 0,
- "outOfWindow": 284,
- "bodyFailed": 0,
+ "outOfWindow": 283,
+ "bodyFailed": 1,
  "extract": {
-  "mode": "claude-file"
+  "mode": "claude-file",
+  "docs": 2,
+  "queued": 5
  },
  "costUsd": 0
 }
