@@ -1,0 +1,19 @@
+{
+ "date": "2026-10-10",
+ "window": {
+  "from": "2026-10-09 09:00 KST",
+  "to": "2026-10-10 09:00 KST"
+ },
+ "candidates": 170,
+ "fresh": 8,
+ "reportOnly": 0,
+ "dupSkipped": 0,
+ "outOfWindow": 162,
+ "bodyFailed": 2,
+ "extract": {
+  "mode": "claude-file",
+  "docs": 8,
+  "queued": 0
+ },
+ "costUsd": 0
+}
